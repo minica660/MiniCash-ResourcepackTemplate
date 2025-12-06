@@ -1,0 +1,2 @@
+# MiniCash-ResourcepackTemplate
+リソースパックテンプレート
