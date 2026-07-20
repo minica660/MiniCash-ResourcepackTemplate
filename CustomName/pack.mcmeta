@@ -1,6 +1,7 @@
 {
-  "pack": {
-    "pack_format": 64,
-    "description": "<リソースパック説明>"
-  }
+    "pack":{
+        "min_format": [75, 0],
+        "max_format": [75, 0],
+        "description": "example resourcepack. "          
+    }
 }
